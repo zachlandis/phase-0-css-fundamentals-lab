@@ -2,4 +2,30 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+
+figcaption {
+  text-size-adjust: 20%;
+}
+
+p .featured-property {
+  width: 800x;
+}
+
+div {
+  float: left;
+  background: red;
+}
+
+a #details {
+  background-color: white;
+
 }
